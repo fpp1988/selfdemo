@@ -1,0 +1,20 @@
+{
+    "name": "fpp1988/selfdemo",
+    "description": "just a test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "fpp",
+            "email": "fpp6671607@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
